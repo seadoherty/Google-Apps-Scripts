@@ -2,7 +2,7 @@
 # VisJS Network with Sheets data
 
 
-This apps script is broken into 3 code files to break up general functionality:  
+This apps script generates a popup displaying an interactive network from your Sheets data. It is broken into 3 code files to break up general functionality:  
 **0_menu** - Creates a dropdown in your Sheet to run the code  
 **1_nodeNetwork** - Gets the data and displays the popup  
 **2_nodeNetwork** - HTML for the popup
