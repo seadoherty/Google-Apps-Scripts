@@ -1,4 +1,6 @@
- ![Google Sheets logo](https://www.google.com/images/about/sheets-icon.svg)   **+**    ![VisJs logo](https://visjs.org/images/visjs_logo.png)  
+![AppScriptVisJS](https://user-images.githubusercontent.com/2447375/103564707-feabec00-4e8c-11eb-8a83-1388f3055c7b.gif)
+
+![Google Sheets logo](https://www.google.com/images/about/sheets-icon.svg)   **+**    ![VisJs logo](https://visjs.org/images/visjs_logo.png)  
 # VisJS Network with Sheets data
 
 
